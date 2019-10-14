@@ -1,0 +1,86 @@
+
+.div2 img {
+	padding-top:20px;
+	margin-left: 353px
+}
+.div3 p{
+	font-size:20px;
+	text-align: left;
+	margin-left:354px; 
+}
+.div4 p{
+	font-size:10px;
+	text-align: left;
+	margin-left:354px; 
+}
+.div5 a{
+	float: right;
+	font-size:20px;
+	margin-right:253px ;
+}
+.div6 img {
+	padding-top:20px;
+	margin-left: 353px
+}
+.div7 img {
+	padding-top:20px;
+	margin-left: 438px
+}
+@charset "utf-8";
+/* CSS Document */
+.zuiwai{
+	border-top: 1px solid #fff;
+}
+
+.left{
+	float: left;
+	border-top: 1px solid #000;
+	float: left; 
+	margin-left: 264px;
+            background-color:gray;          
+            top:50px;
+	        width: 300px;
+	        height:380px;          
+	
+}
+.right{
+	border-top:1px solid #000;
+	float: right;
+	margin-right: 355px;
+	width: 550px;
+	background-color: antiquewhite;
+	top:50px;
+	height: 380px;
+}
+.r1{
+	border-top:1px solid #000;
+	float: left;
+	margin-left: 50PX;
+	margin-top: 50PX;
+	width: 120px;
+	height:100PX; 
+	background-color:aqua;
+}
+.up{
+	border-top:1px solid #000;
+	margin-top: 0px;
+	width: 120px;
+	height: 30px;
+	background-color:brown;	
+	
+}
+.down{
+	border-top:1px solid #000;
+	width: 120px;
+	height: 30px;
+	padding-bottom: 40px; 
+	background-color:yellowgreen;	
+	
+	
+	
+}
+
+
+
+
+ 
